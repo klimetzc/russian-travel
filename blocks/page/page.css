@@ -1,0 +1,10 @@
+.page {
+  --dark-gray: #2a2c2f;
+  --gray: #aaaaaa;
+  background-color: var(--dark-gray);
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: Inter;
+  color: white;
+}
