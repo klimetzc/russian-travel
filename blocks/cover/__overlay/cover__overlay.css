@@ -1,3 +1,8 @@
 .cover__overlay {
   background: var(--dark-gray);
+  opacity: 0.3;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  transition: 0.3s;
 }

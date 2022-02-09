@@ -1,11 +1,6 @@
 .cover__background {
   display: block;
   width: 100%;
-  /* position: absolute; */
   z-index: 0;
   transition: 0.4s;
-  filter: brightness(0.8);
-}
-.cover__background:hover {
-  filter: brightness(0.3);
 }

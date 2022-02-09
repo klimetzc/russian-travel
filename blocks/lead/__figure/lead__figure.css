@@ -1,23 +1,13 @@
 .lead__figure {
   margin: 0;
-  padding: 0 148px;
+  padding: 0;
   width: 100%;
   box-sizing: border-box;
   align-self: flex-start;
 }
 
-@media screen and (max-width: 1024px) {
-  .lead__figure {
-    padding: 0 48px;
-  }
-}
 @media screen and (max-width: 768px) {
   .lead__figure {
     padding: 0;
   }
 }
-/* @media screen and (max-width: 320px) {
-  .lead__figure {
-    padding: 0 ;
-  }
-} */

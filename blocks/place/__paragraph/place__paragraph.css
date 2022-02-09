@@ -3,9 +3,11 @@
   font-size: 18px;
   line-height: 29px;
 }
+
 .place__paragraph:not(:last-of-type) {
   padding-bottom: 26px;
 }
+
 @media screen and (max-width: 768px) {
   .place__paragraph {
     font-size: 16px;

@@ -1,4 +1,9 @@
 .page {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
   --dark-gray: #2a2c2f;
   --gray: #aaaaaa;
   background-color: var(--dark-gray);

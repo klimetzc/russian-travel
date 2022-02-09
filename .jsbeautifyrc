@@ -1,0 +1,8 @@
+{
+  "css": {
+    "preserve_newlines": false,
+    "max_preserve_newlines": null
+  },
+  "max_preserve_newlines": 1,
+  "indent_size": 2
+}
