@@ -46,7 +46,6 @@
   opacity: 0.3;
   width: inherit;
   height: 100%;
-  position: absolute;
   transition: 0.3s;
 }
 
@@ -61,6 +60,5 @@
   opacity: 0.8;
   width: 100%;
   height: 100%;
-  position: absolute;
   transition: 0.3s;
 }
