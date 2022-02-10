@@ -4,5 +4,6 @@
     "max_preserve_newlines": null
   },
   "max_preserve_newlines": 1,
-  "indent_size": 2
+  "indent_size": 2,
+  "wrap_line_length": 120
 }

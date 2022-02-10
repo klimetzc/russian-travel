@@ -13,7 +13,6 @@
 @media screen and (max-width: 1024px) {
   .photo-grid {
     max-width: none;
-    /* width: 100%; */
     gap: 14px;
     padding: 0 48px 92px;
   }
@@ -21,6 +20,7 @@
 
 @media screen and (max-width: 768px) {
   .photo-grid {
+    /* гапы вроде не дублируются, они изменяются каждый раз */
     gap: 16px;
     padding: 0 24px 88px;
   }
