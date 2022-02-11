@@ -1,0 +1,7 @@
+.header__li {
+  margin-left: 18px;
+}
+
+.header__li:first-of-type {
+  margin: 0;
+}
